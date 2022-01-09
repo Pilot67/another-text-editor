@@ -60,9 +60,10 @@ No test files yet, check again soon<br>
 <p align="right">(<a href="#top">back to top</a>)</p>
   
 ## Links
-Published Link: https://warm-anchorage-56214.herokuapp.com/<br>
+Published Link: https://warm-anchorage-56214.herokuapp.com/  
+Github Link: https://github.com/Pilot67/another-text-editor  
 <p align="right">(<a href="#top">back to top</a>)</p>
-  
+
 ## Questions
 Please direct any questions my Github profile or diret email.  
 My github profile, Pilot67, can be found [here](https://github.com/Pilot67)  
