@@ -21,10 +21,9 @@
 <br>
 
 ## Description  
-A great little text editor using PWA technology allowing you to install the app to your desktop and using the app 'offline' with page caches.
-<br>
+A great little text editor using PWA technology allowing you to install the app to your desktop and using the app 'offline' with page caches.  
+![JATE-Open](https://user-images.githubusercontent.com/86697483/148704167-4e765d46-bdbb-446e-8535-2542efe5b661.jpg)  
 <p align="right">(<a href="#top">back to top</a>)</p>
-  
   
 ## Installation  
 The app can be run from the Heroku deplyed page. If you want to run the app in developemt mode you will first need to run `npm install` to install the required dependencied then `npm run start` to build the deployment and run the node server.
@@ -33,8 +32,10 @@ The app can be run from the Heroku deplyed page. If you want to run the app in d
   
 ## Usage
 The editor is fully functioning once the browser page loads. Any data in the editor is saved the the browser database when the editor looses focus.  
+
 The install button will appear on the left side of the nav bar once the app has finished loading.  
 You can install the app by clicking on the install button (If your browser allows this functionality). This will install an icon on your desktop of in you app repository.  
+![JATE-Install](https://user-images.githubusercontent.com/86697483/148704195-5247c22f-084e-4c27-98d2-1c8812402bb5.jpg). 
 
 <br>
 <p align="right">(<a href="#top">back to top</a>)</p>
